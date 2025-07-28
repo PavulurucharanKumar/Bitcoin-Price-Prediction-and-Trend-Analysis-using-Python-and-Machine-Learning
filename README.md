@@ -1,15 +1,15 @@
 # Bitcoin Price Prediction and Trend Analysis using Python and Machine Learning
-# 🪙 Bitcoin Price Prediction Using ML
+# Bitcoin Price Prediction Using ML
 
 This project analyzes historical Bitcoin price data and predicts the closing price using **Linear Regression** model.
 
-## 📁 Dataset
+## Dataset
 
 - Dataset: `btccoin.csv`
 - Size: 350 MB (not uploaded here due to size limit)
 
-> 📌 Full dataset can be loaded via Google Drive or split into smaller chunks for use.
-
+> Full dataset can be loaded via Google Drive (Download from the below link)
+https://drive.google.com/file/d/1bgaTkFG7eiwcFz8nFtl8TbFoIc2CQ5SH/view?usp=sharing
 ---
 
 ##  Project Steps
